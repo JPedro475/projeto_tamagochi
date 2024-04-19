@@ -24,7 +24,7 @@ global.nvl_alimento = 100; //Alimento --> Fome em 50%
 
 //Diminuição dos status
 taxa_dim_feliz = 0.1;
-taxa_dim_limpeza = 0.06;
+taxa_dim_limpeza = 0.02;
 taxa_dim_fome = 0.04;
 
 //Fade
@@ -32,5 +32,5 @@ delay_alterna_estados = 60;
 
 
 tempo_brincando = 10*60
-tempo_comendo = 10*60
-tempo_banho = 10*60
+tempo_comendo = 6*60
+tempo_banho = 8*60

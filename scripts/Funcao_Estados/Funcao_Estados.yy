@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Funcao_Estados",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Funcao_Estados",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

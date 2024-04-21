@@ -40,3 +40,4 @@ frases_fome = ["Minha barriga está roncando!", "Que fome! ", "Preciso de algo p
 frases_sujo = ["Eu me caguei...", "Preciso de um banho, estou muito sujo!", "Minha calda está um nojo!"]
 
 alarm[0] = 5*60;
+randomize();

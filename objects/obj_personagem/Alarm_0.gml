@@ -1,3 +1,5 @@
+// Sorteando Frases e exibição do balão de dialogo
+
 var  _frase_aleatoria = noone;
 
 switch(global.estado_atual)
@@ -19,6 +21,10 @@ switch(global.estado_atual)
 	break;
 }
 
-if (_frase_aleatoria !=noone) show_message(_frase_aleatoria);
+if (_frase_aleatoria !=noone) 
+{
+	var  _inst_balao = instance_create_layer(x+ 80, y - 400, "instances", obj_balao);
+	_inst_balao.texto_fala = _frase_aleatoria;
+}
 
 alarm[0] = 5*60;

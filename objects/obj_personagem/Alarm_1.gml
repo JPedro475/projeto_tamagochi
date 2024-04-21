@@ -1,4 +1,1 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-
-global.estado_atual = estado_atual + 1;
+instance_create_layer(x, y, "instances", obj_fantasma);

@@ -216,7 +216,15 @@ switch (global.estado_atual)
 	#endregion
 	
 	case ESTADOS.MORTO:
+	#region case_morto
+	alarm[1] = 1;
+	global.estado_atual = noone;
+	
+	
+	
+	
 	break;
+	#endregion
 	
 }
 

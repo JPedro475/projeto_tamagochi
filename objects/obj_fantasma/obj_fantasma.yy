@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_sombra",
+  "%Name":"obj_fantasma",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_sombra",
+  "name":"obj_fantasma",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_shadow",
-    "path":"sprites/spr_shadow/spr_shadow.yy",
+    "name":"spr_fantasma",
+    "path":"sprites/spr_fantasma/spr_fantasma.yy",
   },
   "spriteMaskId":null,
   "visible":true,

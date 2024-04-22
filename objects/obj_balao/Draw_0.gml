@@ -1,5 +1,5 @@
 if(global.estado_atual != ESTADOS.MORTO and global.estado_atual != ESTADOS.BRINCANDO and global.estado_atual != ESTADOS.COMENDO and global.estado_atual != ESTADOS.BANHO 
-and global.alternando == false)
+and global.alternando == false and global.estado_atual != noone)
 {	
 	//Cor e fonte 
 	draw_self();

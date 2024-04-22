@@ -1,3 +1,5 @@
+show_debug_message(taxa_dim_feliz);
+
 if (global.estado_atual == ESTADOS.FELIZ)
 {
 	 global.nvl_feliz -= taxa_dim_feliz;
@@ -219,10 +221,6 @@ switch (global.estado_atual)
 	#region case_morto
 	alarm[1] = 1;
 	global.estado_atual = noone;
-	
-	
-	
-	
 	break;
 	#endregion
 	

@@ -1,1 +1,1 @@
-global.nvl_limpeza += 50;
+global.nvl_limpeza = choose(90, 100, 110);

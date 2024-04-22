@@ -1,1 +1,1 @@
-global.nvl_feliz += 50;
+global.nvl_feliz = choose(90, 100, 110);

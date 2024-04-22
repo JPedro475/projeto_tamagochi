@@ -18,14 +18,17 @@ global.estado_atual = ESTADOS.FELIZ
 //Chegar <50 jogador deverá agir
 //Chegar =0 personagem morrerá
 
-global.nvl_feliz = 100; //Feliz --> Entendiado em 50%
-global.nvl_limpeza = 100; //Limpeza --> Sujo em 50%
-global.nvl_alimento = 100; //Alimento --> Fome em 50%
+global.nvl_feliz = random_range(90, 110); //Feliz --> Entendiado em 50%
+global.nvl_limpeza = random_range(90, 110); //Limpeza --> Sujo em 50%
+global.nvl_alimento = random_range(90, 110); //Alimento --> Fome em 50%
 
 //Diminuição dos status
-taxa_dim_feliz = 0.1;
-taxa_dim_limpeza = 0.02;
-taxa_dim_fome = 0.04;
+taxa_dim_feliz = 0.01;
+taxa_dim_limpeza = 0.01;
+taxa_dim_fome = 0.01;
+
+//Atualização de taxa de status
+alarm[2] = 3*60
 
 //Fade
 delay_alterna_estados = 60;

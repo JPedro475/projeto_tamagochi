@@ -1,4 +1,7 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_cursor","order":1,"path":"objects/obj_cursor/obj_cursor.yy",},
+    {"name":"spr_cursor","order":1,"path":"sprites/spr_cursor/spr_cursor.yy",},
+  ],
 }

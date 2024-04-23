@@ -220,6 +220,7 @@ switch (global.estado_atual)
 	case ESTADOS.MORTO:
 	#region case_morto
 	alarm[1] = 1;
+	alarm[3] = 5*60;
 	global.estado_atual = noone;
 	break;
 	#endregion

@@ -1,7 +1,4 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[
-    {"name":"obj_ovo","order":1,"path":"objects/obj_ovo/obj_ovo.yy",},
-    {"name":"spr_ovo","order":1,"path":"sprites/spr_ovo/spr_ovo.yy",},
-  ],
+  "ResourceOrderSettings":[],
 }

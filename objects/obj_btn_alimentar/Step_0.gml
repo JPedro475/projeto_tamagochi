@@ -1,11 +1,11 @@
 if (global.nasce)
 {
 
-	if (global.estado_atual == ESTADOS.FOME)
-	{
+if (global.estado_atual == ESTADOS.FOME)
+{
 		image_index = 0;
-	}
-	else{
+}
+else{
 		image_index = 1;
-	}
+}
 }

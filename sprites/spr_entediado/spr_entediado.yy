@@ -95,7 +95,7 @@
   ],
   "name":"spr_entediado",
   "nineSlice":null,
-  "origin":4,
+  "origin":7,
   "parent":{
     "name":"Personagem",
     "path":"folders/Sprites/Personagem.yy",
@@ -364,7 +364,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":209,
-    "yorigin":271,
+    "yorigin":543,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

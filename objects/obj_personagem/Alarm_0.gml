@@ -23,7 +23,7 @@ switch(global.estado_atual)
 
 if (_frase_aleatoria !=noone) 
 {
-	var  _inst_balao = instance_create_layer(x+ 80, y - 400, "instances", obj_balao);
+	var  _inst_balao = instance_create_layer(x+ 80, y - sprite_height*1.25, "instances", obj_balao);
 	_inst_balao.texto_fala = _frase_aleatoria;
 }
 

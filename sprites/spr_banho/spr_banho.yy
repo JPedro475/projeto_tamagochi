@@ -43,7 +43,7 @@
   ],
   "name":"spr_banho",
   "nineSlice":null,
-  "origin":4,
+  "origin":7,
   "parent":{
     "name":"Personagem",
     "path":"folders/Sprites/Personagem.yy",
@@ -156,7 +156,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":297,
-    "yorigin":281,
+    "yorigin":562,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

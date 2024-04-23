@@ -68,7 +68,7 @@
   ],
   "name":"spr_sujo",
   "nineSlice":null,
-  "origin":4,
+  "origin":7,
   "parent":{
     "name":"Personagem",
     "path":"folders/Sprites/Personagem.yy",
@@ -256,7 +256,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":212,
-    "yorigin":269,
+    "yorigin":539,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

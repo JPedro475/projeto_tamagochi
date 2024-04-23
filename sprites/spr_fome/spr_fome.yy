@@ -93,7 +93,7 @@
   ],
   "name":"spr_fome",
   "nineSlice":null,
-  "origin":4,
+  "origin":7,
   "parent":{
     "name":"Personagem",
     "path":"folders/Sprites/Personagem.yy",
@@ -356,7 +356,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":210,
-    "yorigin":268,
+    "yorigin":536,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
